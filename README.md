@@ -67,11 +67,5 @@ flutter pub get
 flutter run
 ```
 
-Requires a connected device or running emulator.
 
-## Written Questions
 
-See [QUESTIONS.md](./QUESTIONS.md) for the lab discussion answers:
-1. Dependencies used and why
-2. API exception handling strategy
-3. Future usage and the UI parts that depend on it
