@@ -1,6 +1,6 @@
 # Posts Manager
 
-A Flutter mobile application for managing posts via the JSONPlaceholder REST API.
+A Flutter mobile application for managing posts REST API.
 Built for Lab 4 — Consuming APIs in Flutter.
 
 ## Features
